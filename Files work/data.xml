@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<roots>
+    <teacher>
+       <teach>
+         <name>Sir hashir</name>
+         <email>hashir12@example.com<email>
+         <date>1/7/2024<date>
+         <phone>03236545454</phone>
+         <salary>$50000</salary>
+       </teach>
+       <teach>
+         <name>Sir Adnan khan</name>
+         <email>Adnan1584@example.com<email>
+         <date>4/3/2021<date>
+         <phone>0454712894</phone>
+         <salary>$400000</salary>
+       </teach>
+       <teach>
+         <name>Sir Baba</name>
+         <email>baba789@example.com<email>
+         <date>10/5/2022<date>
+         <phone>03482015652</phone>
+          <salary>$20000</salary>
+       </teach>
+         <teach>
+         <name>Sir Rahil khan</name>
+         <email>Rahilkhan4452@example.com<email>
+         <date>11/4/2018<date>
+         <phone>0314956237</phone>
+          <salary>$210000</salary>
+       </teach>
+       <teach>
+         <name>Sir Micheal jackson</name>
+         <email>Michealjac547@example.com<email>
+         <date>18/2/1999<date>
+         <phone>01231212565644</phone>
+          <salary>$90000</salary>
+       </teach>
+       <teach>
+         <name>Sir Rock fifa</name>
+         <email>rockfifa3284@example.com<email>
+         <date>20/4/2015<date>
+         <phone>0331544111444</phone>
+          <salary>$100000</salary>
+       </teach>
+       <teach>
+         <name>Sir Bruce lee</name>
+         <email>Brucelee012@example.com<email>
+         <date>23/3/1809<date>
+         <phone>0324513962810</phone>
+          <salary>$80000</salary>
+       </teach>
+       <teach>
+         <name>Sir Ronaldo bhai</name>
+         <email>ronaldo4029@example.com<email>
+         <date>27/10/2012<date>
+         <phone>032312154015645</phone>
+          <salary>$21000</salary>
+       </teach>
+       <teach>
+         <name>Sir Sharuk khan</name>
+         <email>Sharuk8210@example.com<email>
+         <date>26/12/2008<date>
+         <phone>031212175498</phone>
+          <salary>$2021621</salary>
+       </teach>
+       <teach>
+         <name>Sir Thor Baba</name>
+         <email>thorbaba734921@example.com<email>
+         <date>4/2/2001<date>
+         <phone>03322014421</phone>
+          <salary>$540000</salary>
+       </teach>
+       <teach>
+         <name>Sir AKA khan</name>
+         <email>Akakh54121@example.com<email>
+         <date>21/1/2005<date>
+         <phone>03021215601</phone>
+          <salary>$450000</salary>
+       </teach>       
+    </teacher>
+</roots>
